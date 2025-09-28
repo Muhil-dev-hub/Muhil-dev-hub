@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Muhil-dev-hub
 Muhil-Dev-Hub
-<img src="https://via.placeholder.com/300x300/4A90E2/FFFFFF?text=Muhil+V" alt="Muhil V - Aspiring Full Stack Developer" width="200" height="200" style="border-radius: 50%;">
 About Me
 Hello! I'm Muhil V, a first-year student pursuing B.Tech in Artificial Intelligence & Data Science (AI&DS) at NGP College in Coimbatore, Tamil Nadu, India. I'm excited about technology and building innovative solutions. My journey in development has just begun, and I'm focused on mastering web technologies to create amazing user experiences.
 
