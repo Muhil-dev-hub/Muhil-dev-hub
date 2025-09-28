@@ -1,5 +1,5 @@
 Muhil-Dev-Hub
-4px 8px rgba(0,0,0,0.1);"> <br><br> <strong>🚀 Building the Future, One Line of Code at a Time! 🚀</strong> </div>
+ <br><br> <strong>🚀 Building the Future, One Line of Code at a Time! 🚀</strong> </div>
 👋 About Me
 Hello, World! I'm Muhil V, a passionate first-year student pursuing B.Tech in Artificial Intelligence & Data Science (AI&DS) at NGP College in vibrant Coimbatore, Tamil Nadu, India. 🌟 As an eager learner, I'm diving into the exciting world of technology, blending creativity with problem-solving. I'm eager to learn how to solve programs and turn ideas into reality – from simple scripts to intelligent applications!
 
@@ -35,8 +35,8 @@ I'm particularly eager to learn how to solve programs, tackling challenges on pl
 
 📍 Connect & Let's Collaborate
 Location: Coimbatore, India 🇮🇳
-College: NGP College – Shaping Tomorrow's Innovators
-GitHub: muhil-dev-hub – Fork, Star, and Contribute!
-Email: (Add your email here for direct outreach)
-LinkedIn/Twitter: (Add your profiles for networking)
-<div align="center"> <img src="https://via.placeholder.com/400x100/FF6B6B/FFFFFF?text=Let's+Code+Together!+%F0%9F%A4%96" alt="Let's Code Together" style="border-radius: 10px; margin-top: 20px;"> </div>
+College: NGP College 
+GitHub: muhil-dev-hub
+Email: immuhil2006@gmail.com
+
+
