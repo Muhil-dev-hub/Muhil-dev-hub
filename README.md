@@ -26,6 +26,8 @@ Building modern, efficient user interfaces – component-based development for s
 I aim to become a Full Stack Developer as soon as possible! By combining front-end skills with back-end knowledge, I want to create complete web applications that solve real-world problems. I'm committed to hands-on projects and continuous learning in AI, data science, and development.
 
 📍 Location & Contact
+
+
 College: NGP College, Coimbatore
 GitHub: muhil-dev-hub
 Email: immuhil2006@gmail.com
