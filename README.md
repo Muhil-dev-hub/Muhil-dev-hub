@@ -1,5 +1,5 @@
 Muhil-Dev-Hub
-<div align="center"> <img src="https://via.placeholder.com/300x300/4A90E2/FFFFFF?text=Muhil+V+%F0%9F%92%BB" alt="Muhil V - Aspiring Full Stack Developer" width="200" height="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <br><br> <strong>🚀 Building the Future, One Line of Code at a Time! 🚀</strong> </div>
+4px 8px rgba(0,0,0,0.1);"> <br><br> <strong>🚀 Building the Future, One Line of Code at a Time! 🚀</strong> </div>
 👋 About Me
 Hello, World! I'm Muhil V, a passionate first-year student pursuing B.Tech in Artificial Intelligence & Data Science (AI&DS) at NGP College in vibrant Coimbatore, Tamil Nadu, India. 🌟 As an eager learner, I'm diving into the exciting world of technology, blending creativity with problem-solving. I'm eager to learn how to solve programs and turn ideas into reality – from simple scripts to intelligent applications!
 
